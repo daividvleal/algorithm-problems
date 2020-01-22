@@ -42,6 +42,8 @@ if __name__ == '__main__':
     main()
 
 """
+output:
+
 0
 142154
 The element does not exist!
